@@ -1,2 +1,5 @@
-# community
-Community UnyConn
+# UnyConn
+Комьюнити для всех кто что то делает.
+
+Список участников:
+* Rohh Thone
